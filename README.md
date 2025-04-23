@@ -1,4 +1,4 @@
-# EventEase - Event Management App
+#  Event Management App
 
 A Flutter mobile application for managing events like Birthday Parties, Wedding Ceremonies, and Night Parties. The app features Google/Facebook authentication, cloud storage with Firebase, local storage with Hive, and a beautiful Material Design UI.
 
