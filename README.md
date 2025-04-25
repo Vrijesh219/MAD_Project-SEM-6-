@@ -6,7 +6,6 @@ A Flutter mobile application for managing events like Birthday Parties, Wedding 
 
 - 🔐 Authentication
   - Google Sign-In
-  - Facebook Sign-In
   - Secure user data management
 
 - 📅 Event Management
